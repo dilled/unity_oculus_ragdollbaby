@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dde4f03edae78349857047d7291490e, type: 3}
+  m_Name: BottleCrackedLower
+  m_EditorClassIdentifier: 
+  name: BottleCrackedLower
+  icon: {fileID: 21300000, guid: 30782752aef8a9f4aa1a41c46e29363d, type: 3}
+  audio: {fileID: 0}
+  isDefaultItem: 0
+  isDiamond: 0
+  isWings: 0
+  isScuba: 0
+  isFood: 0
+  isStamina: 0
+  isFlosh: 0
+  isCheckpoint: 0
+  cost: 0
+  isBottle: 0
+  isBottleCracked: 0
+  isBottleCrackedUpper: 0
+  isBottleCrackedLower: 1
+  isBall: 0
